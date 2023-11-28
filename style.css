@@ -2,12 +2,12 @@ body {background-color :#ADD8E6;
     color: #F2F2F2;
 }
 
-#titulo { Indicações 
+#titulo { Indicações }
   color: #036c8c;
   text-align:center;
   font-size: 40px;
 }
-.texto1 {  <p>Nós a <strong>Indicações</strong> tazemos para você o que há de melhor nas telas.
+<p>Nós a <strong>Indicações</strong> tazemos para você o que há de melhor nas telas.
     Fundada em 2023, a Inicações já é destaque na internet e conquista novos telespectadores a cada dia.</p>
   color: #034a8c;
   text-align:justify;
@@ -15,7 +15,7 @@ body {background-color :#ADD8E6;
   font-family: Lucida Sans;
 }
 
-.texto2 {<p> <em>Nossa missão é: <strong>"Proporcionar um bom momento de prazer com qualidade"</strong>.</em></p>
+<p> <em>Nossa missão é: <strong>"Proporcionar um bom momento de prazer com qualidade"</strong>.</em></p>
     <p>Oferecemos indicações significativas para você não precisar ficar procurando sem obter resultados. Noso atendimentio é de qualidade e separado em seções para facilitar sua vida..</p>
   color: rgb(3, 101, 140);
   text-align:justify;
