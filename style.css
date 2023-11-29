@@ -1,18 +1,18 @@
-body {background-color :rgb(206, 8, 91);
-    color: rgb(230, 223, 223) 56, 56);
+body {background-color :rgb(226, 87, 145);
+    color: rgb(255, 255, 255) 56, 56);
 }
 
 #titulo { Indicações }
-  color: #036c8c;
+  color: #F8F8FF;
   text-align:center;
   font-size: 40px;
 }
 <p>Nós a <strong>Indicações</strong> tazemos para você o que há de melhor nas telas.
     Fundada em 2023, a Inicações já é destaque na internet e conquista novos telespectadores a cada dia.</p>
-  color: #034a8c;
+  color: #F8F8FF;
   text-align:justify;
   font-size: 28px;
-  font-family: Lucida Sans;
+  font-family: Gotham;
 }
 
 <p> <em>Nossa missão é: <strong>"Proporcionar um bom momento de prazer com qualidade"</strong>.</em></p>
@@ -20,5 +20,5 @@ body {background-color :rgb(206, 8, 91);
   color: rgb(3, 101, 140);
   text-align:justify;
   font-size: 38px;
-  font-family: Lucida Sans;
+  font-family: Times New Roman;
 }
